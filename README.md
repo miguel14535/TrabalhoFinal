@@ -51,18 +51,31 @@ npm run preview
 🗂 Estrutura do Projeto
 
 📂 petshop-sistema
+
 ├── 📂 src              # Código-fonte do projeto
+
 │   ├── main.tsx       # Arquivo principal
+
 │   ├── App.tsx        # Componente raiz
+
 │   ├── components/    # Componentes reutilizáveis
+
 │   ├── pages/         # Páginas da aplicação
+
 │   ├── services/      # Comunicação com Supabase
+
 │   ├── styles/        # Configurações do TailwindCSS
+
 ├── 📂 public          # Arquivos estáticos
+
 ├── package.json       # Dependências e scripts
+
 ├── tsconfig.app.json  # Configuração do TypeScript
+
 ├── .gitignore         # Arquivos ignorados pelo Git
+
 ├── README.md          # Documentação principal
+
 
 📖 Banco de Dados
 
